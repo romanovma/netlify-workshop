@@ -9,7 +9,7 @@ export default function Index() {
 
       <section className="flex columns">
         <div>
-          <h2>Rendering strategies</h2>
+          <h2>Rendering strategies FTW</h2>
           <ul>
             <li>
               <Link href="/rendering-strategies/ssg">
@@ -92,9 +92,9 @@ export default function Index() {
         </div>
       </section>
       <hr></hr>
-          <Link href="https://github.com/netlify/netlify-workshop/">
-             https://github.com/netlify/netlify-workshop/
-          </Link>
+      <Link href="https://github.com/netlify/netlify-workshop/">
+        https://github.com/netlify/netlify-workshop/
+      </Link>
     </main>
   );
 }
